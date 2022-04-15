@@ -2,7 +2,7 @@
 ### Hi there 👋,   
 ![](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-I am Seda Nur Önder.I am Android Developer. I like to write projects in Kotlin language.
+I am Seda Nur Önder.I am a Android Developer. I like to write projects in Kotlin language.
 
 Skills: Android / Kotlin / Java 
 
